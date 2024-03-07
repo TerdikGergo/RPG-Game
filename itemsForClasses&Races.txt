@@ -1,8 +1,6 @@
 items for classes
 Heavy weapons: requies 2 slots (out of 3), still can bring 1 universal item
 Can bring 1 universal item and 2 class based item (exp. heavy weapons)
-All crit dmg is base_dmg * 1.25
-Base crit chance is 10%
 melee items
 -sm typa shield: can block 1 attack from enemy (~97% successfull blocks)
 -longer melee weapon: more dmg (~15), more chance to miss (~15%)
@@ -13,19 +11,21 @@ ranged items
 -stealth cloath: gain invisibility until the next attack, the next attack deals 10% more dmg, disabled for the next 2 rounds
 -light ranged: dmg: 10, miss chance: 4%
 -medium ranged: dmg: 16, miss chacne: 12%
--hidden dagger: when attacking out of invisibilty, deal 40 dmg, normally deal 11 dmg, miss chance: 5%
-
+-hidden dagger: when attacking out of invisibilty, deal 40 dmg (doesnt apply the 10%), normally deal 11 dmg, miss chance: 5%
 
 special spell user items
 -spellbook, gain +8 strength (for default attacks and spells)
--magic potion, for the next 3 rounds gain +8 maximum vigor (for the whole game), but cant attack for 3 rounds, regenerate after 8 rounds (3 while the effect is active and +5), gain +2% stress for the whole game
--fireball, casting a fireball results in the enemy taking dmg ranging from 15-18, disabled for 2 rounds
--
+-magic potion, for the next 3 rounds gain +8 maximum vigor (for the whole game), but cant attack for 3 rounds, regenerate after 8 rounds (3 while the effect is active and +5), gain +1% stress for the whole game (cannot be reduced)
+-fireball, casting a fireball results in the enemy taking dmg ranging from 15-18, disabled for 1 rounds
+-magic staff, dmg: 16
 
 universal items
 -health potion (in the next round +20 vigor regenerated), regenerates after 4 rounds
--luck potion (for the next round ~-5% miss chance (can be varied with weapon miss chances), regenerates after 3 rounds)
--3 poppy(~-15% stress level),
+-luck potion (for the next round ~-8% miss chance (can be varied with weapon miss chances), regenerates after 4 rounds)
+-3 poppy(~-15% stress level)
 
 Races:
-Ork 
+Ork +2 vigor -1 strength
+Skeleton +2 strength -1 vigor
+Elf +2 magic power -1 vigor
+Barbarian +1 strength +1 vigor
