@@ -1,0 +1,20 @@
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\Castle Adventures.csproj.AssemblyReference.cache
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\Castle Adventures_MarkupCompile.cache
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\bin\Debug\net6.0-windows\Castle Adventures.exe
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\bin\Debug\net6.0-windows\Castle Adventures.deps.json
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\bin\Debug\net6.0-windows\Castle Adventures.runtimeconfig.json
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\bin\Debug\net6.0-windows\Castle Adventures.dll
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\bin\Debug\net6.0-windows\Castle Adventures.pdb
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\Castle Adventures.g.resources
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\Castle Adventures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\Castle Adventures.AssemblyInfoInputs.cache
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\Castle Adventures.AssemblyInfo.cs
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\Castle Adventures.csproj.CoreCompileInputs.cache
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\Castle Adventures.dll
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\refint\Castle Adventures.dll
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\Castle Adventures.pdb
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\Castle Adventures.genruntimeconfig.cache
+C:\Users\Szkibak.Szabolcs\source\repos\Castle Adventures\obj\Debug\net6.0-windows\ref\Castle Adventures.dll

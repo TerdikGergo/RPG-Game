@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Castle_Adventures</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\bdor.jpg" />
+    <None Remove="Images\cons.jpg" />
+    <None Remove="Images\droom.jpg" />
+    <None Remove="Images\kert.jpg" />
+    <None Remove="Images\lake.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\bdor.jpg" />
+    <Resource Include="Images\cons.jpg" />
+    <Resource Include="Images\droom.jpg" />
+    <Resource Include="Images\kert.jpg" />
+    <Resource Include="Images\lake.jpg" />
+  </ItemGroup>
+
+</Project>
